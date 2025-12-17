@@ -117,21 +117,25 @@ Note: `onDestroy()` is not guaranteed in all system conditions, but for a normal
 
 Place screenshots in a folder named **`screenshots/`** at the repository root (same level as this README):
 
-- `1_create_project-1.png` – New project templates screen  
-- `2_create_project-2.png` – Project configuration screen  
-- `3_test.png` – App running with logs  
-- `4_test-1.png` – Lifecycle events after interaction  
-- `5_test-2.png` – More lifecycle transitions  
-- `6_test-3.png` – Example showing lifecycle changes including `onDestroy`  
-- `7-last.png` – Final UI (colored cards + clear button)
-
+### New Project Templates Screen
 ![Create Project - Template](screenshots/1_create_project-1.png)
+
+### Project Configuration Screen
 ![Create Project - Config](screenshots/2_create_project-2.png)
 
+### App Running with Logs
 ![Running App](screenshots/3_test.png)
+
+### Lifecycle Events After Interaction
 ![Testing 1](screenshots/4_test-1.png)
+
+### More Lifecycle Transitions
 ![Testing 2](screenshots/5_test-2.png)
+
+### Example Showing Lifecycle Changes Including `onDestroy`
 ![Testing 3](screenshots/6_test-3.png)
+
+### Final UI
 ![Final UI](screenshots/7-last.png)
 
 ---
