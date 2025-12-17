@@ -58,3 +58,15 @@ The goal of this project is to verify that:
 
 In this basic assignment, I created a new Android project using the **Empty Activity (Jetpack Compose)** template in Android Studio, completed the **Gradle synchronization**, and successfully **built and ran** the application on an Android emulator. The final result is a single-screen app that displays the text **"Hello World!"**, confirming that the development environment and build pipeline are correctly configured.
 
+---
+
+## 🫡 Advanced Version
+
+A more structured and modern UI implementation of the same “Hello World” task is available in the **Advanced Version** repository.
+
+In the advanced version:
+- the default template `Greeting()` composable was removed,
+- a dedicated screen-level composable (`HelloWorldScreen`) was introduced,
+- Material 3 UI components (e.g., `Card`) and typography were used to create a more polished interface.
+
+➡️ **[Advanced repository](https://github.com/Berkantagur/Mobile-Systems-PB/tree/main/Project1_HelloWorld_Advanced)**
